@@ -4,7 +4,7 @@
 package com.ltse.util;
 
 /**
- * @author SWATI KHARKAR
+ * @author SWATI PATIL
  *
  */
 public class Constants {

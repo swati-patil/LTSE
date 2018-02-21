@@ -12,7 +12,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Properties;
@@ -23,7 +22,7 @@ import com.ltse.util.Constants;
 import com.ltse.util.Utyls;
 
 /**
- * @author SWATI KHARKAR
+ * @author SWATI PATIL
  *
  */
 public class ProcessOrders {

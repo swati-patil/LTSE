@@ -9,7 +9,7 @@ import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author SWATI KHARKAR
+ * @author SWATI PATIL
  *
  */
 public class Utyls {
